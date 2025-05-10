@@ -1,0 +1,9 @@
+pyproject.toml
+setup.py
+src/paper_automation/__init__.py
+src/paper_automation/main.py
+src/paper_automation.egg-info/PKG-INFO
+src/paper_automation.egg-info/SOURCES.txt
+src/paper_automation.egg-info/dependency_links.txt
+src/paper_automation.egg-info/requires.txt
+src/paper_automation.egg-info/top_level.txt
